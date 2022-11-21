@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lab-works-gh-page/static/css/main.032ee786.css",
+    "main.js": "/lab-works-gh-page/static/js/main.c7a6f5eb.js",
+    "index.html": "/lab-works-gh-page/index.html",
+    "main.032ee786.css.map": "/lab-works-gh-page/static/css/main.032ee786.css.map",
+    "main.c7a6f5eb.js.map": "/lab-works-gh-page/static/js/main.c7a6f5eb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.032ee786.css",
+    "static/js/main.c7a6f5eb.js"
+  ]
+}
